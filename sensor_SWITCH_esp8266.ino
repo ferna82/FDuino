@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid = "MOVISTAR_0582";
-const char* password = "2MmJL963DHYH9qTCG9D6";
+const char* ssid = "";
+const char* password = "";
 
 const int PIN_RELE = 2;   //Es el puerto GPIO2
 String ESTADO_RELE = "OFF";
